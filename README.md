@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hola 👋 soy Diego!
 
-<!--
-**diegovasconcelo/diegovasconcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![https://github.com/diegovasconcelo](https://pbs.twimg.com/profile_banners/195112449/1618514490/1500x500)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills:
+![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
+![TypeScript](https://img.shields.io/badge/Typescript-0095D5?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)</br>
+![JavaScript](https://img.shields.io/badge/Javascript-FFD733?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)</br>
+![PHP](https://img.shields.io/badge/Php-00AAFF?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)</br>
+
+
+
+### Puedes encontrarme en:
+
+[![Web](https://img.shields.io/badge/Mi_Sitio_Web-diegovasconcelo.com-14a1f0?style=for-the-badger=white&labelColor=101010)](https://diegovasconcelo.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego_Vasconcelo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/diegovasconcelo)
+
+
+[![Twitter](https://img.shields.io/badge/Twitter-@d_vasconcelo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/D_Vasconcelo)
